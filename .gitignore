@@ -1,0 +1,10 @@
+*.pyc
+*~
+*.swp
+*.xls
+*.xlsx
+
+build/
+dist/
+
+
